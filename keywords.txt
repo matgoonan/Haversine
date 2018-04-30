@@ -1,0 +1,7 @@
+Haversine	KEYWORD1
+
+dtor	KEYWORD2
+rtod		KEYWORD2
+calcDistance	KEYWORD2
+calcBearing	KEYWORD2
+calcPoint	KEYWORD2
